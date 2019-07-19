@@ -64,6 +64,7 @@
     <Compile Include="Assets\Resources\3D Models\Iguana\Iguana\Scripts\IguanaCharacter.cs" />
     <Compile Include="Assets\Resources\3D Models\Iguana\Iguana\Scripts\IguanaUserController.cs" />
     <Compile Include="Assets\Scripts\EscenaManager.cs" />
+    <Compile Include="Assets\Scripts\SceneLoader.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
